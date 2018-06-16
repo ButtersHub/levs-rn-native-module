@@ -6,7 +6,7 @@
     "test": "jest"
   },
   "publishConfig": {
-    "registry": "http://npm.dev.wixpress.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "peerDependencies": {
     "react": ">= 15.4.1",
