@@ -1,12 +1,12 @@
 {
-  "name": "LevsNativeModule",
-  "version": "0.0.1",
+  "name": "levs-rn-native-module",
+  "version": "0.0.2",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest"
   },
   "publishConfig": {
-    "registry": "http://npm.dev.wixpress.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "peerDependencies": {
     "react": ">= 15.4.1",
